@@ -2,7 +2,7 @@
 
 
 <img src="https://user-images.githubusercontent.com/7072856/112834525-18149c80-9066-11eb-8451-e224d1bbc5f4.png" width=1000 />
-<i>Replace this image with a visual representation of what you're learning</i>
+<code><i>Replace this image with a visual representation of what you're learning</i></code>
 
 
 <p>&nbsp;</p>
@@ -81,15 +81,15 @@ Foundational:
 
 #️⃣ <b>Hashtags to follow:</b>
 <br />
-<i style="color: gray;">Example: #javascript, #womenintech, #peopleintech, #blacksintech, #blackwomenintech, #codinglife, #frontend, #emberjs etc.</i>
+<code><i>Example: #javascript, #womenintech, #peopleintech, #blacksintech, #blackwomenintech, #codinglife, #frontend, #emberjs etc.</i></code>
 
 👤 <b>Social Media Accounts to follow:</b>
 <br />
-<i>Personally, I love following the creators of the coding language, folks who identify as core contributors and folks who talk about what I want to learn. </i>
+<code><i>Personally, I love following the creators of the coding language, folks who identify as core contributors and folks who talk about what I want to learn.</i></code>
 
 👥 <b>Indirect Mentors, Direct Mentors, Friends, and Communities:</b>
 <br />
-<i>Indirect Mentors are those informal mentors who may or may not know you; however, they provide encouragment or aide in some way. Direct mentors are those folks who you have a recurring meeting cadence, those who you have direct access to, and folks who you may spend time pairing programming with.</i>
+<code><i>Indirect Mentors are those informal mentors who may or may not know you; however, they provide encouragment or aide in some way. Direct mentors are those folks who you have a recurring meeting cadence, those who you have direct access to, and folks who you may spend time pairing programming with.</i></code>
 
 
 ## Learning Plan
@@ -112,24 +112,33 @@ Foundational:
 
 Week 1
 ---
-| Week 1  |   |
-|---|---|
-|   |   |
-|   |   |
+
+| Chapters or Video  | Pages or Time  |
+|--------------------|----------------|
+|      Section 1     |   Pages 1-20   |
+|      Section 2     |   Pages 20-50  |
 
 
 Week 2
 ----------
-|Week 2   |   |
-|---|---|
-|   |   |
-|   |   |
-|   |   |
+
+| Chapters or Video  | Pages or Time  |
+|--------------------|----------------|
+|      Section 3     |  Pages 50-100  |
+|      Section 4     |  Pages 100-150 |
 
 Week 3
 ----------
+| Chapters or Video  | Pages or Time  |
+|--------------------|----------------|
+|      Section 5     |  Pages 150-200 |
+|      Section 6     |  Pages 200-250 |
 
 Week 4
 ----------
+| Chapters or Video  | Pages or Time  |
+|--------------------|----------------|
+|      Section 7     |  Pages 250-300 |
+|      Section 8     |  Pages 300-350 |
 
 
