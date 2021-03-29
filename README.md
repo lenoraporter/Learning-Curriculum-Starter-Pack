@@ -30,13 +30,11 @@
 <code><i> List task you'll be able to achieve after completed this 30 day learning journey.  </i></code>
 <p>&nbsp;</p>
 
-
 1. --
 2. --
 3. --
 4. --
 5. --
-
 
 
 
