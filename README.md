@@ -9,7 +9,11 @@ Creating your own self-directed learning curriculum to learn anything!
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-🤔 What are you learning?
+## 🤔 What are you learning?
+
+Topic:
+Core Concepts:
+Foundational:
 
 
 ## Learning Resources:
@@ -50,7 +54,7 @@ Creating your own self-directed learning curriculum to learn anything!
 
 
 
-📝 Teaching Opportunities:
+📝 Teaching Opportunities (Verbal and Social Learner):
 
 
 1. --
@@ -60,7 +64,7 @@ Creating your own self-directed learning curriculum to learn anything!
 5. --
 
 
-Open Source Projects to Contribute To:
+Open Source Projects to Contribute To (Hands-on learner):
 
 
 1. --
