@@ -29,15 +29,15 @@ Creating your own self-directed learning curriculum to learn anything!
 ## Immerse yourself in your learning:
 
 #️⃣ <b>Hashtags:</b>
-<p>&nbsp;</p>
+<&nbsp;>
 <i>Example: #javascript, #womenintech, #peopleintech, #blacksintech, #blackwomenintech, #codinglife, #frontend, etc.</i>
 
 👤 <b>Social Media Accounts to follow:</b>
-<p>&nbsp;</p>
+<&nbsp;>
 <i>Personally, I love following the creators of the coding language, folks who identify as core contributors and folks who talk about what I want to learn. </i>
 
 👥 <b>Indirect Mentors, Direct Mentors, Friends, and Communities:</b>
-<p>&nbsp;</p>
+<&nbsp;>
 <i>Indirect Mentors are those informal mentors who may or may not know you; however, they provide encouragment or aide in some way. Direct mentors are those folks who you have a recurring meeting cadence, those who you have direct access to, and folks who you may spend time pairing programming with.</i>
 
 
