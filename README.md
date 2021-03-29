@@ -15,7 +15,7 @@
 
 **Core Concepts:**
 <br />
-<code><i> List the core concepts or foundational skills needed to master this skill? </i></code>
+<code><i> List the core concepts or foundational skills needed to master this skill. </i></code>
 
 - [ ] --
 - [ ] --
