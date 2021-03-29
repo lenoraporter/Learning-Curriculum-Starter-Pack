@@ -1,7 +1,7 @@
 # Learning-Curriculum-Starter-Pack
 Creating your own self-directed learning curriculum to learn anything!
 
-![r792IId0](https://user-images.githubusercontent.com/7072856/112834525-18149c80-9066-11eb-8451-e224d1bbc5f4.png)
+![Replace this image with a visual representation of what you're learning](https://user-images.githubusercontent.com/7072856/112834525-18149c80-9066-11eb-8451-e224d1bbc5f4.png | width=100)
 
 
 
