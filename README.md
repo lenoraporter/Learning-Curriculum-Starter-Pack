@@ -2,7 +2,7 @@
 
 
 <img src="https://user-images.githubusercontent.com/7072856/112834525-18149c80-9066-11eb-8451-e224d1bbc5f4.png" width=1000 />
-<code><i>Replace this image with a visual representation of what you're learning</i></code>
+<code><i>Replace this image with a visual representation of what you're learning.</i></code>
 
 
 <p>&nbsp;</p>
@@ -36,7 +36,7 @@
 
 
 ## Learning Resources:
-<code><i> Categorizing my learning resources based on my learning style usually helps me a ton. </i></code>
+<code><i> Categorize your learning resources based on your learning style. </i></code>
 
 
 
