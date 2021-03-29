@@ -13,7 +13,7 @@
 <br />
 <code><i> One sentence to describe this new skill. </i></code>
 
-**Core Concepts:**
+**Learning Objectives:**
 <br />
 <code><i> List the core concepts or foundational skills needed to master this skill. </i></code>
 
@@ -23,7 +23,7 @@
 - [ ] --
 - [ ] --
 
-**Learning Metrics:**
+**Proficiency Metrics:**
 <br />
 <code><i> List task you'll be able to achieve after completed this 30 day learning journey.  </i></code>
 
