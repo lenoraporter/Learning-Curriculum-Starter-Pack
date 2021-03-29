@@ -11,11 +11,16 @@
 
 ## 🤔 What are you learning?
 
-Topic:
+**Topic:**
+<code><i> One sentence to describe this new skill. </i></code>
 <p>&nbsp;</p>
-Core Concepts:
+**Core Concepts:**
+<code><i> List the core concepts or foundational skills needed to master this skill? </i></code>
 <p>&nbsp;</p>
-Foundational:
+**Learning Metrics:**
+<code><i> List task you'll be able to achieve after completed this 30 day learning journey.  </i></code>
+<p>&nbsp;</p>
+
 <p>&nbsp;</p>
 
 
