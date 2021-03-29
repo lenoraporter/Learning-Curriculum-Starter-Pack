@@ -14,11 +14,11 @@
 **Topic:**
 <br />
 <code><i> One sentence to describe this new skill. </i></code>
-<p>&nbsp;</p>
+
 **Core Concepts:**
 <br />
 <code><i> List the core concepts or foundational skills needed to master this skill? </i></code>
-<p>&nbsp;</p>
+
 **Learning Metrics:**
 <br />
 <code><i> List task you'll be able to achieve after completed this 30 day learning journey.  </i></code>
