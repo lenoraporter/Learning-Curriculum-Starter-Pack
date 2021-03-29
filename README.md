@@ -81,7 +81,7 @@ Foundational:
 
 #️⃣ <b>Hashtags to follow:</b>
 <br />
-<i>Example: #javascript, #womenintech, #peopleintech, #blacksintech, #blackwomenintech, #codinglife, #frontend, #emberjs etc.</i>
+<i style="color: gray;">Example: #javascript, #womenintech, #peopleintech, #blacksintech, #blackwomenintech, #codinglife, #frontend, #emberjs etc.</i>
 
 👤 <b>Social Media Accounts to follow:</b>
 <br />
