@@ -89,10 +89,10 @@ Open Source Projects to Contribute To:
 <p>&nbsp;</p>
 📋 What’s the plan? 
 
-
+<p>&nbsp;</p>
 🎯 Goal:
 
-
+<p>&nbsp;</p>
 💻 10 Project Ideas:
 
 
@@ -110,10 +110,13 @@ Open Source Projects to Contribute To:
 
 Week 1
 ----------
+
 Week 2
 ----------
+
 Week 3
 ----------
+
 Week 4
 ----------
 
