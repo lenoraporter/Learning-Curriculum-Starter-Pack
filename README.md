@@ -1,6 +1,10 @@
 # Creating your own self-directed learning curriculum
 <i>This document was created to help self-educators learn a new skill. Learning a new skill without a formal structure can be hard, but there is a way to mimic an organized format for daily learning. This format is a living guide meaning it is extremely flexible and should be used as a checklist. Too much structure can be too rigid while too much flexibility can cause a wandering mind. Find your balance, write out your malleable guide, and start your learning today!</i>
 
+<br />
+
+<i>Want to see this in action? Check out my [30 day journey learning Ember](https://github.com/lenoraporter/30-days-of-Ember).
+
 <img src="https://user-images.githubusercontent.com/7072856/112834525-18149c80-9066-11eb-8451-e224d1bbc5f4.png" width=1000 />
 <code><i>Replace this image with a visual representation of what you're learning.</i></code>
 
