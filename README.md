@@ -6,8 +6,6 @@
 
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 
 ## 🤔 What are you learning?
 
