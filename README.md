@@ -12,25 +12,55 @@ Creating your own self-directed learning curriculum to learn anything!
 🤔 What are you learning?
 
 
-📋 What’s the plan? 
+## Learning Resources:
+<i> Categorizing my learning resources based on my learning style usually helps me a ton. </i>
 
 
-🎯 Goal:
 
+👀 Visual Resources:
+1.--
+2.--
+3.--
+4.--
+5.--
+
+🗣 Auditory Resources: 
+1.--
+2.--
+3.--
+4.--
+5.--
 
 📖 Reading Resources:
 
+1.--
+2.--
+3.--
+4.--
+5.--
 
+📝 Teaching Opportunities:
 
-📹  Tutorial Resources:
+1.--
+2.--
+3.--
+4.--
+5.--
 
- 
+Open Source Projects to Contribute To:
+
+1.--
+2.--
+3.--
+4.--
+5.--
+
 
 ## Immerse yourself in your learning:
 
-#️⃣ <b>Hashtags:</b>
+#️⃣ <b>Hashtags to follow:</b>
 <br />
-<i>Example: #javascript, #womenintech, #peopleintech, #blacksintech, #blackwomenintech, #codinglife, #frontend, etc.</i>
+<i>Example: #javascript, #womenintech, #peopleintech, #blacksintech, #blackwomenintech, #codinglife, #frontend, #emberjs etc.</i>
 
 👤 <b>Social Media Accounts to follow:</b>
 <br />
@@ -38,10 +68,19 @@ Creating your own self-directed learning curriculum to learn anything!
 
 👥 <b>Indirect Mentors, Direct Mentors, Friends, and Communities:</b>
 <br />
-<i>Indirect Mentors are those informal mentors who may or may not know you; however, they provide encouragment or aide in some way. Direct mentors are those folks who you have a recurring meeting cadence, those who you have direct access to, and folks who you may spend time pairing programming with.</i>-
+<i>Indirect Mentors are those informal mentors who may or may not know you; however, they provide encouragment or aide in some way. Direct mentors are those folks who you have a recurring meeting cadence, those who you have direct access to, and folks who you may spend time pairing programming with.</i>
+
+
+## Learning Plan
+<p>&nbsp;</p>
+📋 What’s the plan? 
+
+
+🎯 Goal:
 
 
 💻 10 Project Ideas:
+
 
 1. --
 2. --
