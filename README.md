@@ -5,7 +5,7 @@ Creating your own self-directed learning curriculum to learn anything!
 <i>Replace this image with a visual representation of what you're learning</i>
 
 
-
+<p>&nbsp;</p>
 
 🤔 What is this?
 
