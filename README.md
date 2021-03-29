@@ -12,7 +12,9 @@ Creating your own self-directed learning curriculum to learn anything!
 ## 🤔 What are you learning?
 
 Topic:
+<p>&nbsp;</p>
 Core Concepts:
+<p>&nbsp;</p>
 Foundational:
 
 
@@ -64,7 +66,7 @@ Foundational:
 5. --
 
 
-Open Source Projects to Contribute To (Hands-on learner):
+👋🏾 Open Source Projects to Contribute To (Hands-on learner):
 
 
 1. --
