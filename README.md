@@ -1,5 +1,5 @@
-# Learning-Curriculum-Starter-Pack
-Creating your own self-directed learning curriculum to learn anything!
+# Creating your own self-directed learning curriculum
+
 
 <img src="https://user-images.githubusercontent.com/7072856/112834525-18149c80-9066-11eb-8451-e224d1bbc5f4.png" width=1000 />
 <i>Replace this image with a visual representation of what you're learning</i>
@@ -16,6 +16,7 @@ Topic:
 Core Concepts:
 <p>&nbsp;</p>
 Foundational:
+<p>&nbsp;</p>
 
 
 ## Learning Resources:
@@ -107,11 +108,6 @@ Foundational:
 3. --
 4. --
 5. --
-6. --
-7. --
-8. --
-9. --
-10. --
 
 
 Week 1
