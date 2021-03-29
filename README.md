@@ -26,6 +26,8 @@ Creating your own self-directed learning curriculum to learn anything!
 4.--
 5.--
 
+
+
 🗣 Auditory Resources: 
 
 
@@ -34,6 +36,8 @@ Creating your own self-directed learning curriculum to learn anything!
 3.--
 4.--
 5.--
+
+
 
 📖 Reading Resources:
 
@@ -44,6 +48,8 @@ Creating your own self-directed learning curriculum to learn anything!
 4.--
 5.--
 
+
+
 📝 Teaching Opportunities:
 
 
@@ -52,6 +58,8 @@ Creating your own self-directed learning curriculum to learn anything!
 3.--
 4.--
 5.--
+
+
 
 Open Source Projects to Contribute To:
 
