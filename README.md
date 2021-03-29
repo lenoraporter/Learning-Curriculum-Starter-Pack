@@ -19,12 +19,25 @@
 <br />
 <code><i> List the core concepts or foundational skills needed to master this skill? </i></code>
 
+- [ ] --
+- [ ] --
+- [ ] --
+- [ ] --
+- [ ] --
+
 **Learning Metrics:**
 <br />
 <code><i> List task you'll be able to achieve after completed this 30 day learning journey.  </i></code>
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
+
+1. --
+2. --
+3. --
+4. --
+5. --
+
+
 
 
 ## Learning Resources:
