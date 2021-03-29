@@ -20,7 +20,7 @@ Foundational:
 
 
 ## Learning Resources:
-<mark><i> Categorizing my learning resources based on my learning style usually helps me a ton. </i></mark>
+<code><i> Categorizing my learning resources based on my learning style usually helps me a ton. </i></code>
 
 
 
