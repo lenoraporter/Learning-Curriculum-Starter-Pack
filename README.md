@@ -33,6 +33,20 @@ Foundational:
 4. --
 5. --
 
+💻 10 Short Projects (Hands-on learner):
+
+
+1. --
+2. --
+3. --
+4. --
+5. --
+6. --
+7. --
+8. --
+9. --
+10. --
+
 
 
 🗣 Auditory Resources: 
@@ -99,15 +113,6 @@ Foundational:
 <p>&nbsp;</p>
 🎯 Goal:
 
-<p>&nbsp;</p>
-💻 10 Project Ideas:
-
-
-1. --
-2. --
-3. --
-4. --
-5. --
 
 
 Week 1
