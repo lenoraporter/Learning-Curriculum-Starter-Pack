@@ -127,13 +127,14 @@
 
 
 ## Learning Plan
-<p>&nbsp;</p>
-📋 What’s the plan? 
+
+📋 **What’s the plan?** 
+<br />
 <code><i>Pick one learning resources that'll cover a span of 30 days:</i></code>
 <br />
 
-<p>&nbsp;</p>
-🎯 Goal:
+🎯 **Goal:**
+<br />
 <code><i>Set your daily learning schedule: Ex. M-F. Plan your rest days and set the time of day you plan to study.</i></code>
 <br />
 
